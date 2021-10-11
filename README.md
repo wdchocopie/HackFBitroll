@@ -4,5 +4,5 @@ Vui vẻ không qạo nhé
 
 Tải về chạy file là được
 
-#requirement
+# requirement
 pip3 install tdqm
